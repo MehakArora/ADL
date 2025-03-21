@@ -26,7 +26,7 @@ def debug_transformer_during_training(debug = False):
     fr_vocab_size = 6000
     embed_dim = 256
     num_heads = 8
-    sequence_len = 100
+    sequence_len = 16
     num_layers = 2
     
     # Create model with debugging enabled
