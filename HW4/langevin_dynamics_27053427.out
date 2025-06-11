@@ -1,0 +1,9 @@
+Running Langevin dynamics on cuda...
+Sampling completed in 40.41 seconds.
+
+Sample Statistics:
+mean: [nan nan nan nan nan nan nan nan nan nan]
+std: [nan nan nan nan nan nan nan nan nan nan]
+min: [nan nan nan nan nan nan nan nan nan nan]
+max: [nan nan nan nan nan nan nan nan nan nan]
+median: [nan nan nan nan nan nan nan nan nan nan]
